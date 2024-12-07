@@ -1,6 +1,6 @@
-# ShopStreet
+# Fashion Recommender
 
-Welcome to My Fashion Website, a quirky and stylish online store where you can find the latest trends in fashion for both men and women. Our website offers a seamless shopping experience with features like category sorting, search functionality, and the ability to load more products as you browse.
+Welcome to Fashion Product Recommender using Generative AI, a quirky and stylish online store where you can find the latest trends in fashion for both men and women based on Generative AI features like Image Simialrity, Text Similararity using Vector Databases
 
 ## Features
 
@@ -35,7 +35,7 @@ You need to have the following software installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ishigit123/product_recommender.git
+    git clone https://github.com/TaskLanceAI/FashionProductRecommender.git
     ```
 
 2. Navigate to the project directory:
@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [ishitaagarwal020509@gmail.com].
+For any inquiries or feedback, please contact us at [tasklanceanalytics@gmail.com].
 
 ---
 
